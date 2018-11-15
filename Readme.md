@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SchedulerFilterExample/Form1.cs) (VB: [Form1.vb](./VB/SchedulerFilterExample/Form1.vb))
+<!-- default file list end -->
 # How to filter appointments and resources
 
 
